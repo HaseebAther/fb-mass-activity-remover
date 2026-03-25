@@ -25,7 +25,7 @@ Go to **Facebook Settings → Your Facebook Information → Download Your Inform
 
 ### 2. Open the tool
 
-go to `https://haseebather.github.io/fb-mass-activity-remover/fb-activity-deleter.html` 
+go to [Tool](https://haseebather.github.io/fb-mass-activity-remover/fb-activity-deleter.html)
 
 ### 3. Configure your options
 
